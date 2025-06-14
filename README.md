@@ -1,6 +1,6 @@
 # 🎮 Vietnam Challenge - Python Game Project - Android
 
-Một dự án trò chơi về thể loại **Puzzle** và **Casual Game** được phát triển bằng Python với **Kivy** và **KivyMD** trong môi trường PyCharm.
+Một dự án trò chơi về thể loại **Puzzle** và **Casual Game** trên nền tảng Android, được phát triển bằng Python với **Kivy** và **KivyMD** trong môi trường PyCharm.
 
 ---
 
