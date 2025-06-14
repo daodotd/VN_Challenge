@@ -8,7 +8,7 @@ Một dự án trò chơi về thể loại **Puzzle** và **Casual Game** trên
 
 | Họ và tên                  | MSSV       | Vai trò                                                         |
 |----------------------------|------------|-----------------------------------------------------------------|
-| **Nguyễn Đỗ Anh Đào**      | 24410014   | Developer, lên ý tưởng, thiết kế giao diện và trò chơi          |
+| **Nguyễn Đỗ Anh Đào**      | 24410014   | Developer, coder, lên ý tưởng, thiết kế giao diện và trò chơi          |
 | **Phạm Thị Ánh Nga**       | 24410071   | Tester game                                                     |
 | **Nguyễn Thị Tuyết Nhung** | 24410077   | Thiết kế nội dung câu hỏi cho giải đố                           |
 
