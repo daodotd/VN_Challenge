@@ -28,4 +28,8 @@ Một dự án trò chơi về thể loại **Puzzle** và **Casual Game** trên
 ---
 
 ## 📹 Demo hình ảnh
-![](demo/Loading.png) ![](demo/Menu.png) ![](demo/Info.png) ![](demo/Select-game-mode.png) ![](demo/Select-1.png) ![](demo/Select-2.png) ![](demo/Quizz-1.png) ![](demo/Quizz-2.png) ![](demo/Result.png) ![](demo/3-tiles.png) 
+<img src="demo/Loading.png" width="300"> <img src="demo/Menu.png" width="300">
+<img src="demo/Info.png" width="300"> <img src="demo/Select-game-mode.png" width="300">
+<img src="demo/Select-1.png" width="300"> <img src="demo/Select-2.png" width="300">
+<img src="demo/Quizz-1.png" width="300"> <img src="demo/Quizz-2.png" width="300">
+<img src="demo/Result.png" width="300"> <img src="demo/3-tiles.png" width="300">
