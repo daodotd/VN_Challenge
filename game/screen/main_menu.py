@@ -134,9 +134,7 @@ class MainMenu(WithDefaultBG):
         font_size = 16      # Size font
 
         info_text = OutlinedLabel(
-            text="Nguyễn Đỗ Anh Đào - 24410014"
-                 "\nPhạm Thị Ánh Nga - 24410071"
-                 "\nNguyễn Thị Tuyết Nhung - 24410077",
+            text="by Nguyễn Đỗ Anh Đào",
             custom_font_size=font_size,
             font_name="roboto_medium",
             pos_hint={"center_x": 0.5, "center_y": 0.52}
@@ -150,7 +148,7 @@ class MainMenu(WithDefaultBG):
             size_hint=(0.12, 0.12),
             pos_hint={"center_x": 0.35, "center_y": 0.4}
         )
-        fb_button.bind(on_press=lambda _: self._open_link("https://www.facebook.com/punmon9x"))
+        fb_button.bind(on_press=lambda _: self._open_link("https://www.facebook.com/punmon1002"))
         popup_layout.add_widget(fb_button)
 
         # Set Instagram Button - Popup Info Button
@@ -160,7 +158,7 @@ class MainMenu(WithDefaultBG):
             size_hint=(0.12, 0.12),
             pos_hint={"center_x": 0.5, "center_y": 0.4}
         )
-        ig_button.bind(on_press=lambda _: self._open_link("https://www.instagram.com/pun.9x"))
+        ig_button.bind(on_press=lambda _: self._open_link("https://www.instagram.com/punmon.102"))
         popup_layout.add_widget(ig_button)
 
         # Set YouTube Button - Popup Info Button
