@@ -21,11 +21,11 @@ Một dự án trò chơi về thể loại **Puzzle** và **Casual Game** trên
 
 ---
 
-## 📹 Demo hình ảnh
-![](demo/Loading.png)
-
----
-
 ## ⚙️ Cài đặt Kivy và KivyMD trong Pycharm
 - **Lệnh cài Kivy:** `pip install kivy `
 - **Lệnh cài KivyMD:** `pip install https://github.com/kivymd/KivyMD/archive/master.zip`
+
+---
+
+## 📹 Demo hình ảnh
+![](demo/Loading.png) ![](demo/Menu.png) ![](demo/Info.png) ![](demo/Select-game-mode.png) ![](demo/Select-1.png) ![](demo/Select-2.png) ![](demo/Quizz-1.png) ![](demo/Quizz-2.png) ![](demo/Result.png) ![](demo/3-tiles.png) 
